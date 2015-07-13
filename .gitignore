@@ -1,0 +1,9 @@
+Android/obj
+Android/obj/Debug
+Android/bin
+.DS_Store
+Components
+iOS/bin
+iOS/debug
+iOS/obj
+packages
